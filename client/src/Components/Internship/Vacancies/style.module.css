@@ -16,8 +16,10 @@
 .image {
   display: block;
   margin: 0 auto;
-  height: 150px;
-  width: 150px;
+  /* height: 150px;
+  width: 150px; */
+  height: 70%;
+  width: 70%;
   padding: 0;
 }
 
@@ -99,6 +101,7 @@
   text-align: center;
   padding: 1%;
   line-height: 1.5;
+  font-weight: bolder;
 }
 
 @media screen and (max-width: 767px) {
