@@ -3,7 +3,7 @@
 }
 
 .body {
-  margin-bottom: 0%;
+  margin-bottom: 3%;
   padding-bottom: 0%;
 }
 
@@ -13,7 +13,7 @@
 
 .rightSec {
   height: 70vh;
-  background-image: url("/src/images/Background11.png");
+  background-image: url("/src/Components/Internship/Joinus/images/Background11.png");
 }
 
 .wrapForm {

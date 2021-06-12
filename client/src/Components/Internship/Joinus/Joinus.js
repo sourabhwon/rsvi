@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import cx from "classnames";
 import Styles from "./Joinus.module.css";
-import globalStyles from "../../../Assets/Global-Styles/bootstrap.min.module.css";
+import globalStyles from "./Assets/Global-Styles/bootstrap.min.module.css";
 import joinUsImg from "./Links";
 
 const Joinus = () => {
