@@ -38,6 +38,7 @@ const Joinus = () => {
         >
           <div className={Styles.imgWrap}>
             <img
+              alt="Education"
               src={joinUsImg}
               className={cx(Styles.picture, globalStyles["img-fluid"])}
               maxWidth="100%"
