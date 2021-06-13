@@ -37,6 +37,7 @@
 
   object-fit: cover;
   z-index: 20;
+  width: 100%;
 }
 
 .heading {
