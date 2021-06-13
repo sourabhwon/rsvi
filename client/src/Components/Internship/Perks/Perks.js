@@ -13,7 +13,7 @@ function Perks() {
   return (
     <React.Fragment>
       <body>
-        <h1 class="heading ">PERKS</h1>
+        <h1 class="heading">PERKS</h1>
 
         <div class="container-fluid">
           <div class="row">
@@ -36,8 +36,7 @@ function Perks() {
               </div>
 
               <div class="card-body">
-                <h5 class="card-title text-center fw-bold "></h5>
-                <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
+              <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
                 <p>
                   Have prior commitments, classes,or assingments? No problem!
                 </p>
