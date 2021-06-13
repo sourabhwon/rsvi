@@ -170,3 +170,24 @@ input {
     margin-top: -5%;
   }
 }
+@media screen and (max-width: 770px) and (min-width: 765px) {
+  .leftSec {
+    order: 1;
+    height: 40vw;
+  }
+  .rightSec {
+    order: 2;
+    height: 30vh;
+  }
+}
+
+@media screen and (max-width: 1025px) and (min-width: 1020px) {
+  .leftSec {
+    order: 1;
+    height: 40vw;
+  }
+  .rightSec {
+    order: 2;
+    height: 30vh;
+  }
+}
