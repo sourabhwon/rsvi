@@ -1,26 +1,26 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Perks.css";
-import WFH from "./Images/1.png";
-import Social from "./Images/2.png";
-import PartTime from "./Images/3.png";
-import Marketing from "./Images/4.png";
-import LOR from "./Images/5.png";
-import Certificate from "./Images/6.png";
-import FlexibleHours from "./Images/7.png";
+// import WFH from "./Images/1.png";
+// import Social from "./Images/2.png";
+// import PartTime from "./Images/3.png";
+// import Marketing from "./Images/4.png";
+// import LOR from "./Images/5.png";
+// import Certificate from "./Images/6.png";
+// import FlexibleHours from "./Images/7.png";
 
 function Perks() {
   return (
     <React.Fragment>
       <body>
-        <h1 class="heading ">PERKS</h1>
+        <h1 class="heading">PERKS</h1>
 
         <div class="container-fluid">
           <div class="row">
             {/* card1 */}
             <div class="card-main">
               <div class="card">
-                <img src={WFH} class="card-img-top " alt="..." />
+                <img src="https://docs.google.com/uc?id=1TPaKoxVhNQfUbcIS-1HNezQaaSnycWu4"class="card-img-top " alt="..." />
               </div>
 
               <div class="card-body">
@@ -29,22 +29,25 @@ function Perks() {
               </div>
             </div>
 
-            {/* card2 */}
+{/* card2 */}
             <div class="card-main">
               <div class="card">
-                <img src={PartTime} class="card-img-top " alt="..." />
+                <img src="https://docs.google.com/uc?id=16ySjfcR-mYtzD5ID6h_tpqeO4TUmLjU1" class="card-img-top " alt="..." />
               </div>
 
               <div class="card-body">
-                 <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
-                <p> Have prior commitments, classes,or assingments? No problem!</p>
-              </div>
+                <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
+                <p>
+                  Have prior commitments, classes,or assingments? No problem!
+                </p>
+             </div>
             </div>
+              
 
             {/* card3 */}
             <div class="card-main">
               <div class="card">
-                <img src={FlexibleHours} class="card-img-top" alt="..." />
+                <img src="https://docs.google.com/uc?id=1ZeJTvFOH9w9_rJWYNvXSv3iPUxW0GK23" class="card-img-top" alt="..." />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-center fw-bold ">FLEXIBLE HOURS</h5>
@@ -55,7 +58,7 @@ function Perks() {
             {/* card4 */}
             <div class="card-main">
               <div class="card">
-                <img src={Marketing} class="card-img-top" alt="..." />
+                <img src="https://docs.google.com/uc?id=1cLi_bcnZ1xDn2wVZuQ7t10dMKcE2xjpg"  class="card-img-top" alt="..." />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-center fw-bold ">
@@ -72,7 +75,7 @@ function Perks() {
             {/* card5 */}
             <div class="card-main">
               <div class="card">
-                <img src={Social} class="card-img-top" alt="..." />
+                <img src="https://docs.google.com/uc?id=155qoelx0Oxqmr84C-mRZMK0ofh-fQn-0" class="card-img-top" alt="..." />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-center fw-bold ">
@@ -86,7 +89,7 @@ function Perks() {
             {/* card6 */}
             <div class="card-main">
               <div class="card">
-                <img src={LOR} class="card-img-top" alt="..." />
+                <img src="https://docs.google.com/uc?id=1NsD6TdjwIXA-zizKtJTbytv3_QCxZzi7" class="card-img-top" alt="..." />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-center fw-bold ">
@@ -100,7 +103,7 @@ function Perks() {
             {/* card7 */}
             <div class="card-main">
               <div class="card">
-                <img src={Certificate} class="card-img-top" alt="..." />
+                <img src="https://docs.google.com/uc?id=1d1gQWr1lEzOnA7XGlKIznGLlS0GBaq5p"  class="card-img-top" alt="..." />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-center fw-bold ">
