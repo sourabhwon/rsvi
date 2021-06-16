@@ -29,19 +29,20 @@ function Perks() {
               </div>
             </div>
 
-            {/* card2 */}
+{/* card2 */}
             <div class="card-main">
               <div class="card">
                 <img src="https://docs.google.com/uc?id=16ySjfcR-mYtzD5ID6h_tpqeO4TUmLjU1" class="card-img-top " alt="..." />
               </div>
 
               <div class="card-body">
-              <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
+                <h5 class="card-title text-center fw-bold ">PART-TIME</h5>
                 <p>
                   Have prior commitments, classes,or assingments? No problem!
                 </p>
-              </div>
+             </div>
             </div>
+              
 
             {/* card3 */}
             <div class="card-main">
