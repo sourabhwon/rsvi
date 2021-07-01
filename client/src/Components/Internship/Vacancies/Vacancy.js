@@ -15,7 +15,7 @@ function Vacancy() {
     </div>
     <div className="container">
       <div className="row">
-        {DepartmentInfo.map(createCard)}; {/* <div className="col-md-4"><FlipCard img="http://www.starsgroup.es/images/graphdep.jpg" head="Graphics Department"/></div>
+        {DepartmentInfo.map(createCard)} {/* <div className="col-md-4"><FlipCard img="http://www.starsgroup.es/images/graphdep.jpg" head="Graphics Department"/></div>
         <div className="col-md-4"><FlipCard img="https://www.hrmexam.com/wp-content/uploads/2020/04/How-Does-a-HR-Department-Affect-an-Organization.jpg" head="HR Department"/></div>
         <div className="col-md-4"><FlipCard img="https://cdn.lynda.com/course/647682/647682-637491181638185188-16x9.jpg" head="Voice Over"/></div>
         <div className="col-md-4"><FlipCard img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcr6vO9NTqNoQTYnlCkdPmPG0YJRkA3aL3CbHmQXnQHI2SB-Qe7vPBmPLWKNTOAsTQh-U&usqp=CAU" head="Marketing"/></div>
