@@ -1,3 +1,3 @@
-const joinUsImg = "https://drive.google.com/thumbnail?id=15OTyf_7_L8l6kWW_83exdRbnWQHXIQu-";
+const joinUsImg = "https://drive.google.com/thumbnail?id=1sBAQlkRwfZBnRzmTjMux_eO3XxKsLDHL";
 
 export default joinUsImg;
