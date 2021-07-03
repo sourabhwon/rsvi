@@ -7,9 +7,9 @@ import Perks from "./Perks/Perks";
 function Internship() {
   return (
     <div>
-      <Joinus />
-      <Vacancy />
-       <Perks/>
+          <Joinus />    
+          <Vacancy />  
+          <Perks/>   
     </div>
   );
 
