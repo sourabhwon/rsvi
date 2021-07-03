@@ -171,8 +171,7 @@ input {
     margin-left: 18%;
     margin-top: -5%;
   }
-}
-@media screen and (max-width: 770px) and (min-width: 765px) {
+}@media screen and (max-width: 770px) and (min-width: 765px) {
   .leftSec {
     order: 1;
 
